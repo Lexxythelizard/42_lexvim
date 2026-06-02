@@ -60,6 +60,6 @@ command! AddMallocProtect -1r ~/.vim/snippets/in_C/malloc_and_guard.c
 "	...folows"
 "Python sippets"
 
-command! AddNullGuard -1r ~/.vim/snippets/in_Python/if_name_is_main.py
-command! AddMallocProtect -1r ~/.vim/snippets/in_Python/try_except.py
-command! AddMallocProtect -1r ~/.vim/snippets/in_Python/try_except_finally.py
+command! AddIfMain -1r ~/.vim/snippets/in_Python/if_name_is_main.py
+command! AddTryExcept -1r ~/.vim/snippets/in_Python/try_except.py
+command! AddTryExceptFinally -1r ~/.vim/snippets/in_Python/try_except_finally.py
